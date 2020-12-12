@@ -1,2 +1,2 @@
 # Notas Escolares
- É um pequeno código em JavaScript que simula as notas de alunos e mostra se estão ou não aprovados.
+simple system that simulates students' school grades and indicates whether they have moved on to the next phase or not.
